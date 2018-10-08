@@ -1,0 +1,5 @@
+name: Entity Reference Sorted
+description: Field Formatter Plugin with sorting option.
+package: Field
+type: module
+core: 8.x
